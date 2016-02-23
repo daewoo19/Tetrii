@@ -1,2 +1,2 @@
 # Tetrii
-A crappy tetris clone
+A tetris clone
